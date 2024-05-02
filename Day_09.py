@@ -3,7 +3,7 @@
     Scott Quashen
     London App Brewery
     100 Days of Python Code: Day 9
-    April 30 2024
+    May 01 2024
 
     ------
     Description:    Silent Auction - Pass the console bidding
